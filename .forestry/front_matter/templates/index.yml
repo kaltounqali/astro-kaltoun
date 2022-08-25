@@ -1,4 +1,14 @@
 ---
 label: index
 hide_body: true
-fields: []
+fields:
+- name: titre
+  type: text
+  config:
+    required: false
+  label: titre
+- name: Image
+  type: file
+  config:
+    maxSize: 64
+  label: Image
