@@ -5,11 +5,10 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
-  path: cv2
+  path: src/pages
   label: cv2
   create: all
   match: "**/*"
-  exclude: src/pages/index.md
   templates:
   - cv
 - type: document
