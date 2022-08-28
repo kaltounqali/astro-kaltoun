@@ -13,8 +13,8 @@ skills:
   nom: Photography
 - nom: 'Illustrator '
   pourcentage: 75
-- pourcentage: 80
-  nom: Photography
+- pourcentage: 50
+  nom: Media
 
 ---
 # hello !
