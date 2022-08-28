@@ -11,8 +11,8 @@ skills:
   pourcentage: 90
 - pourcentage: 80
   nom: Photography
-- nom: 'Adobe Photoshop '
-  pourcentage: 90
+- nom: 'Illustrator '
+  pourcentage: 75
 - pourcentage: 80
   nom: Photography
 
