@@ -9,7 +9,8 @@ telephone: "+253 77440078"
 skills:
 - nom: 'llustrator '
   pourcentage: 75
-- pourcentage: 0
+- pourcentage: 50
+  nom: 'Media '
 - nom: 'Adobe Photoshop '
   pourcentage: 90
 - pourcentage: 80
