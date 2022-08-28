@@ -7,8 +7,8 @@ adresse: Balbala, Djibouti
 email: kaltounismaeldaher@gmail.com
 telephone: "+253 77440078"
 skills:
-- nom: 'llustrator '
-  pourcentage: 75
+- nom: 'Adobe Photoshop '
+  pourcentage: 90
 - pourcentage: 50
   nom: 'Media '
 - nom: 'Adobe Photoshop '
