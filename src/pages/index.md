@@ -9,7 +9,8 @@ telephone: "+253 77440078"
 skills:
 - nom: 'Adobe Photoshop '
   pourcentage: 90
-- pourcentage: 0
+- pourcentage: 80
+  nom: Photography
 
 ---
 # hello !
