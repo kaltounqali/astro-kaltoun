@@ -9,7 +9,7 @@ sections:
   label: cv2
   create: all
   match: "**/*"
-  exclude: src/pages
+  exclude: src/pages/index.md
   templates:
   - cv
 - type: document
