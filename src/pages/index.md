@@ -1,11 +1,11 @@
 ---
-layout: ../layouts/CvLayout.astro
+layout: "../layouts/CvLayout.astro"
 titre: kaltoun ismael
-image: ./images/kaltoun.jpg
-fonction: Développeur
+image: "./images/kaltoun.jpg"
+fonction: Designer
 adresse: Balbala, Djibouti
 email: kaltounismaeldaher@gmail.com
-telephone: +253 77440078
----
+telephone: "+253 77440078"
 
+---
 # hello !
